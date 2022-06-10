@@ -4,7 +4,7 @@ You can use this program with Kali Linux. If it is not installed, first install 
 # 2 - Start the Program
 First of all, go to the directory where the program is located from the terminal and type the following part.
 ```python
-python main.py --target hedef ip adresi --gateway modem ip addresi
+python main.py --target destination ip address --gateway modem ip address
 
 Sample: python main.py --target 10.0.0.15 --gateway 10.0.0.1
 ```
