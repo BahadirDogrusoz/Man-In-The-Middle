@@ -1,21 +1,21 @@
-# 1 - Uyarı
+# 1 - Warning
 
-Bu programı Kali Linux ile kullanabilirsiniz. Eğer yüklü değilse öncelikle Kali Linux'u yükleyiniz.
-# 2 - Programı Başlatın
-Öncelikle programın bulunduğu dizine terminalden gidin ve aşağıda ki kısmı yazın.
+You can use this program with Kali Linux. If it is not installed, first install Kali Linux.
+# 2 - Start the Program
+First of all, go to the directory where the program is located from the terminal and type the following part.
 ```python
 python main.py --target hedef ip adresi --gateway modem ip addresi
 
-Örnek: python main.py --target 10.0.0.15 --gateway 10.0.0.1
+Sample: python main.py --target 10.0.0.15 --gateway 10.0.0.1
 ```
-Bu programı Python3 ile de kullanabilirsiniz.
+You can also use this program with Python3.
 ```python
-Örnek: python3 main.py --target 10.0.0.15 --gateway 10.0.0.1
+Sample: python3 main.py --target 10.0.0.15 --gateway 10.0.0.1
 ```
 
-# 3 - Kullanım İçin Örnek Resim
+# 3 - Example Picture for Use
 ![alt text](https://raw.githubusercontent.com/BahadirDogrusoz/Man-In-The-Middle/main/Screenshot_2022-01-27_21_21_36.png)
 
-# 4 - SORUMLULUK REDDİ
-## [!]Yasadışı faaliyetlerde kullanmayınız.
-## [!]Kullanıcı kendi eylemlerinden kendi sorumludur.
+# 4 - DISCLAIMER
+## [!]Do not use in illegal activities.
+## [!]The user is responsible for his own actions.
